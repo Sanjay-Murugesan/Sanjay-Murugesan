@@ -33,3 +33,7 @@
 
 ## 📫 Connect With Me
 - LinkedIn:(https://www.linkedin.com/in/sanjay-murugesan-77b23127a/))
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Sanjay-Murugesan/Sanjay-Murugesan/blob/output/github-contribution-grid-snake.svg)
