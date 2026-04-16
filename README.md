@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sanjay</h1>
-<h3 align="center">🎓 IT Student | 💻 Full Stack Developer | 🚀 Placement Focused</h3>
+<h1 align="center">Hey 👋, I'm Sanjay</h1>
 
----
-
-## 👋 Welcome
+<p align="center">
+  💻 Full Stack Developer | 🎯 Placement Focused | 🚀 Building Real Projects
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Spring+Boot;DSA+Learner;Building+Projects+Daily" />
@@ -11,84 +10,72 @@
 
 ---
 
-## 🔥 About Me
-- 🌱 Currently learning: **React, Spring Boot, DSA**
-- 💡 Passionate about: **Web Development & Problem Solving**
-- 🎯 Goal: **Crack top product-based companies**
-- ⚡ Fun fact: I love building real-world projects 🚀
+## 👨‍💻 Who Am I?
+
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 IT Student passionate about development  
+- 🌱 Currently learning **React, Spring Boot & DSA**  
+- 💡 Interested in **Web Development & Problem Solving**  
+- 🎯 Goal: **Crack top product-based companies**  
+- ⚡ Love building real-world applications  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
-
+  <img src="https://skillicons.dev/icons?i=java,js,react,spring,mysql,html,css,git,github" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **Student Grade Tracker**  
-👉 React + Spring Boot + MySQL  
-👉 Track student performance with analytics  
+<table>
+<tr>
+<td width="50%">
 
-🔹 **Travel Booking Website**  
-👉 Responsive UI + Booking flow  
+### 📊 Student Grade Tracker  
+🔹 React + Spring Boot + MySQL  
+🔹 Track student performance with analytics  
 
-🔹 **Retail Sales Dashboard**  
-👉 Data visualization & insights  
+</td>
 
----
+<td width="50%">
 
-## 📊 GitHub Stats
+### 🌍 Travel Booking Website  
+🔹 Responsive UI  
+🔹 Booking system implementation  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-Murugesan&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-Murugesan&layout=compact&theme=tokyonight" />
-</p>
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-## 🔥 Streak Stats
+### 📈 Retail Sales Dashboard  
+🔹 Data visualization  
+🔹 Business insights  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-Murugesan&theme=tokyonight" />
-</p>
+</td>
 
----
+<td width="50%">
 
-## 🐍 Contribution Snake
+### 🔒 SafeTrail  
+🔹 Travel tracking system  
+🔹 Security-focused app  
 
-<p align="center">
-  <img src="https://github.com/Sanjay-Murugesan/Sanjay-Murugesan/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjay-murugesan-77b23127a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sanjay-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 👀 Profile Views
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjay-Murugesan&color=blue" />
-</p>
-
----
-
-⭐️ From Sanjay | Keep Learning & Building 🚀
+```text
+✔ Solving DSA problems daily
+✔ Building full stack projects
+✔ Improving problem solving skills
+✔ Preparing for placements
