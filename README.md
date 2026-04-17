@@ -1,24 +1,42 @@
 <h1 align="center">Hey 👋, I'm Sanjay</h1>
 
 <p align="center">
-  💻 Full Stack Developer | 🎯 Placement Focused | 🚀 Building Real Projects
+  💻 Aspiring Full Stack Developer | 🚀 Building Real Projects | 🎯 Placement Focused
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Spring+Boot;DSA+Learner;Building+Projects+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;React+%7C+Spring+Boot+%7C+MySQL;DSA+Learner;Building+Projects+Daily;Open+to+Internships🚀" />
 </p>
 
 ---
 
-## 👨‍💻 Who Am I?
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-Murugesan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-Murugesan&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-Murugesan&theme=tokyo-night" />
+</p>
+
+---
+
+## 👨‍💻 About Me
 
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 IT Student passionate about development  
-- 🌱 Currently learning **React, Spring Boot & DSA**  
-- 💡 Interested in **Web Development & Problem Solving**  
-- 🎯 Goal: **Crack top product-based companies**  
-- ⚡ Love building real-world applications  
+- 🎓 Pre-Final Year IT Student  
+- 💻 Passionate about Full Stack Development  
+- 🌱 Learning **React, Spring Boot & DSA**  
+- 💡 Love solving real-world problems  
+- 🎯 Goal: Crack product-based companies  
+- 🚀 Building projects consistently  
 
 ---
 
@@ -32,43 +50,28 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 📊 Student Grade Tracker  
 🔹 React + Spring Boot + MySQL  
 🔹 Track student performance with analytics  
+🔗 https://github.com/Sanjay-Murugesan/student-tracker  
 
-</td>
-
-<td width="50%">
+---
 
 ### 🌍 Travel Booking Website  
-🔹 Responsive UI  
-🔹 Booking system implementation  
+🔹 Responsive UI + Booking system  
+🔗 https://github.com/Sanjay-Murugesan/travel-project  
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### 📈 Retail Sales Dashboard  
-🔹 Data visualization  
-🔹 Business insights  
+🔹 Data visualization & insights  
+🔗 https://github.com/Sanjay-Murugesan/sales-dashboard  
 
-</td>
-
-<td width="50%">
+---
 
 ### 🔒 SafeTrail  
-🔹 Travel tracking system  
-🔹 Security-focused app  
-
-</td>
-</tr>
-</table>
+🔹 Travel tracking + security-focused app  
+🔗 https://github.com/Sanjay-Murugesan/safetrail  
 
 ---
 
