@@ -19,13 +19,7 @@
 
 ---
 
-## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-Murugesan&theme=tokyo-night" />
-</p>
-
----
 
 ## 👨‍💻 About Me
 
