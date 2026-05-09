@@ -44,6 +44,17 @@
 
 ## 🚀 Featured Projects
 
+### ⚙️ Ezio Automation Website
+
+🔹 Industrial Automation Company Website
+🔹 Responsive modern UI with admin dashboard
+🔹 EmailJS-powered enquiry & customer reply system
+🔹 Admin panel for managing customer enquiries
+🔹 Built using HTML, CSS, JavaScript & EmailJS
+
+🔗 https://github.com/Sanjay-Murugesan/ezio-automation
+
+
 ### 📊 Student Grade Tracker  
 🔹 React + Spring Boot + MySQL  
 🔹 Track student performance with analytics  
@@ -69,6 +80,7 @@
 
 ---
 
+
 ## 🎯 Current Focus
 
 ```text
@@ -76,3 +88,6 @@
 ✔ Building full stack projects
 ✔ Improving problem solving skills
 ✔ Preparing for placements
+✔ Developing industrial automation web solutions
+```
+
