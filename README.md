@@ -79,20 +79,6 @@ https://github.com/Sanjay-Murugesan/ezio-automation
 
 ---
 
-### 🌍 Travel Booking Website
-
-🔹 Responsive Travel Platform
-
-🔹 User Authentication
-
-🔹 Booking Workflow
-
-🔹 Modern UI Design
-
-🔗 Repository:
-https://github.com/Sanjay-Murugesan/travel-project
-
----
 
 
 
