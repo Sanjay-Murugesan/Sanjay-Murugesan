@@ -94,20 +94,7 @@ https://github.com/Sanjay-Murugesan/travel-project
 
 ---
 
-### 📊 Retail Sales Dashboard
 
-🔹 Interactive Dashboard
-
-🔹 Data Visualization
-
-🔹 Business Insights
-
-🔹 Performance Reports
-
-🔗 Repository:
-https://github.com/Sanjay-Murugesan/sales-dashboard
-
----
 
 ### 🔒 SafeTrail
 
