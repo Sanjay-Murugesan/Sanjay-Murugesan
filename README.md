@@ -1,38 +1,52 @@
-<h1 align="center">
-Hi 👋, I'm Sanjay Murugesan
-</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Software Engineer Aspirant | Java Full Stack Developer | Spring Boot • React • PostgreSQL
-</h3>
+# Hi 👋 I'm Sanjay Murugesan
 
-<p align="center">
-Building scalable backend systems, modern web applications, and continuously improving through real-world projects.
-</p>
+### 🚀 Software Engineer Aspirant | Java Full Stack Developer
+
+Building scalable backend applications with **Java, Spring Boot, React, and PostgreSQL** while continuously improving through real-world projects.
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Software+Engineer+Aspirant;Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Backend+%26+REST+API+Developer;Learning+AWS+%7C+Docker+%7C+PostgreSQL;Open+to+Internships+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&color=4F8EF7&width=900&lines=Software+Engineer+Aspirant;Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;React+Frontend+Developer;REST+API+Developer;Learning+AWS+%7C+Docker+%7C+System+Design;Open+to+Internships+🚀"/>
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjay-murugesan-77b23127a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sanjay-Murugesan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanjay_m_official/)
+
+</div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 🎓 Final Year B.Tech Information Technology Student
 
-🏫 Sri Krishna College of Technology (SKCT), Coimbatore
+🏫 Sri Krishna College of Technology (SKCT)
 
-💻 Passionate about Full Stack Development, Backend Engineering, REST APIs, and Database Design.
+💡 Passionate about designing scalable backend systems and modern web applications.
 
-🚀 Interested in solving real-world problems through scalable software.
+💻 Interested in
 
-🎯 Current Goal
+- Backend Engineering
+- Full Stack Development
+- REST API Development
+- Database Design
+- Software Architecture
 
-- Crack Product-Based Companies
-- Secure Software Development Internship
-- Become Backend Engineer
+---
 
-🌱 Currently Learning
+# 🎯 Career Goal
+
+✔ Secure a Software Development Internship
+
+✔ Crack Product-Based Companies
+
+✔ Become a Backend Software Engineer
+
+---
+
+# 🌱 Currently Learning
 
 - Spring Security
 - Docker
@@ -45,34 +59,42 @@ Building scalable backend systems, modern web applications, and continuously imp
 
 # 🛠 Tech Stack
 
-## Languages
+## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript"/>
 </p>
 
-## Frontend
+---
+
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
 </p>
 
-## Backend
+---
+
+## ⚙ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
 </p>
 
-## Database
+---
+
+## 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 </p>
 
-## Cloud & Tools
+---
+
+## ☁ Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode"/>
 </p>
 
 ---
@@ -87,15 +109,12 @@ React • Spring Boot • PostgreSQL • JWT Authentication
 
 ### Features
 
-✅ Role-Based Authentication
-
-✅ Student Dashboard
-
-✅ Performance Analytics
-
-✅ REST APIs
-
-✅ PostgreSQL Database
+- Role-Based Authentication
+- Student Performance Dashboard
+- Grade Analytics
+- REST APIs
+- PostgreSQL Database
+- Responsive UI
 
 🔗 Repository
 
@@ -107,15 +126,14 @@ https://github.com/Sanjay-Murugesan/ai-student-grade-tracker
 
 ### Tech Stack
 
-React • EmailJS • Bootstrap
+React • Bootstrap • EmailJS
 
 ### Features
 
-✅ Responsive Company Website
-
-✅ Customer Enquiry System
-
-✅ Admin Dashboard
+- Responsive Company Website
+- Customer Enquiry Form
+- Admin Dashboard
+- Contact Management
 
 🔗 Repository
 
@@ -131,11 +149,10 @@ Android • Firebase • GPS
 
 ### Features
 
-✅ Live GPS Tracking
-
-✅ Emergency SOS
-
-✅ Real-Time Location Sharing
+- Live GPS Tracking
+- Emergency SOS
+- Real-Time Location Sharing
+- Firebase Authentication
 
 🔗 Repository
 
@@ -143,19 +160,19 @@ https://github.com/Sanjay-Murugesan/safetrail
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanjay-Murugesan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjay-Murugesan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-Murugesan&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-Murugesan&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-Murugesan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-Murugesan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -171,7 +188,7 @@ https://github.com/Sanjay-Murugesan/safetrail
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
@@ -181,43 +198,14 @@ https://github.com/Sanjay-Murugesan/safetrail
 
 ---
 
-# 💻 Coding Profiles
+# 📚 Currently Working On
 
-<p align="center">
-
-<a href="https://leetcode.com/u/sanjay_m_official/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/Sanjay-Murugesan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sanjay-murugesan-77b23127a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-✔ Java
-
-✔ Spring Boot
-
-✔ React
-
-✔ PostgreSQL
-
-✔ Docker
-
-✔ AWS
-
-✔ DSA
-
-✔ System Design
+- 🚀 AI Student Grade Tracker
+- ☁ Learning AWS
+- 🐳 Docker
+- ⚡ Spring Security
+- 🧠 System Design
+- 💻 LeetCode DSA
 
 ---
 
@@ -225,22 +213,23 @@ https://github.com/Sanjay-Murugesan/safetrail
 
 🏆 Smart India Hackathon Participant
 
-🏆 Built Multiple Full Stack Projects
+🏆 Developed Multiple Full Stack Applications
 
-🏆 REST API Development
+🏆 REST API Development using Spring Boot
 
-🏆 Responsive UI Development
+🏆 Responsive Web Application Development
 
-🏆 Continuous DSA Practice
+🏆 Continuous Data Structures & Algorithms Practice
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email:
+📧 Email
+
 **mssanjay4444@gmail.com**
 
-🌐 LinkedIn
+💼 LinkedIn
 
 https://www.linkedin.com/in/sanjay-murugesan-77b23127a/
 
@@ -252,28 +241,26 @@ https://github.com/Sanjay-Murugesan
 
 https://leetcode.com/u/sanjay_m_official/
 
-🌍 Portfolio
+🌐 Portfolio
 
-https://your-portfolio-link.com
+Coming Soon...
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sanjay-Murugesan&label=Profile+Views&color=7F5AF0&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Sanjay-Murugesan&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
 ---
 
-<h2 align="center">
+<div align="center">
 
-💜 "Code • Learn • Build • Repeat"
+## 💜 Quote
 
-</h2>
+*"First, solve the problem. Then, write the code."* — John Johnson
 
-<h4 align="center">
+⭐ If you like my projects, don't forget to star them!
 
-Thanks for visiting my profile! ⭐
-
-</h4>
+</div>
