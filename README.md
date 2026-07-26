@@ -188,15 +188,6 @@ https://github.com/Sanjay-Murugesan/safetrail
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjay-Murugesan&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
 
 # 📚 Currently Working On
 
