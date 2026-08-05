@@ -4,7 +4,7 @@
 
 ### 🚀 Software Engineer Aspirant | Java Full Stack Developer
 
-Building scalable backend applications with **Java, Spring Boot, React, and PostgreSQL** while continuously improving through real-world projects.
+Building scalable backend applications with **Java, Spring Boot, React, PostgreSQL, and AWS** while continuously improving through real-world projects.
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&color=4F8EF7&width=900&lines=Software+Engineer+Aspirant;Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;React+Frontend+Developer;REST+API+Developer;Learning+AWS+%7C+Docker+%7C+System+Design;Open+to+Internships+🚀"/>
@@ -24,25 +24,25 @@ Building scalable backend applications with **Java, Spring Boot, React, and Post
 
 🏫 Sri Krishna College of Technology (SKCT)
 
-💡 Passionate about designing scalable backend systems and modern web applications.
+💡 Passionate about building scalable backend systems and modern web applications.
 
-💻 Interested in
+🚀 Interested in
 
 - Backend Engineering
 - Full Stack Development
-- REST API Development
-- Database Design
 - Software Architecture
+- REST API Development
+- Cloud Technologies
+- Database Design
 
 ---
 
 # 🎯 Career Goal
 
-✔ Secure a Software Development Internship
-
-✔ Crack Product-Based Companies
-
-✔ Become a Backend Software Engineer
+- 🎯 Secure a Software Development Internship
+- 💼 Join a Product-Based Company
+- 🚀 Become a Backend Software Engineer
+- 🌍 Build Impactful Software Products
 
 ---
 
@@ -94,7 +94,7 @@ Building scalable backend applications with **Java, Spring Boot, React, and Post
 ## ☁ Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,idea"/>
 </p>
 
 ---
@@ -103,15 +103,15 @@ Building scalable backend applications with **Java, Spring Boot, React, and Post
 
 ## 🎓 AI Student Grade Tracker
 
-### Tech Stack
+**Tech Stack**
 
 React • Spring Boot • PostgreSQL • JWT Authentication
 
-### Features
+**Features**
 
-- Role-Based Authentication
 - Student Performance Dashboard
-- Grade Analytics
+- AI Grade Prediction
+- Authentication & Authorization
 - REST APIs
 - PostgreSQL Database
 - Responsive UI
@@ -124,16 +124,16 @@ https://github.com/Sanjay-Murugesan/ai-student-grade-tracker
 
 ## ⚙ Ezio Automation
 
-### Tech Stack
+**Tech Stack**
 
 React • Bootstrap • EmailJS
 
-### Features
+**Features**
 
-- Responsive Company Website
-- Customer Enquiry Form
-- Admin Dashboard
+- Responsive Website
 - Contact Management
+- Customer Enquiry Form
+- Modern UI Design
 
 🔗 Repository
 
@@ -143,14 +143,14 @@ https://github.com/Sanjay-Murugesan/ezio-automation
 
 ## 🔒 SafeTrail
 
-### Tech Stack
+**Tech Stack**
 
 Android • Firebase • GPS
 
-### Features
+**Features**
 
 - Live GPS Tracking
-- Emergency SOS
+- SOS Emergency
 - Real-Time Location Sharing
 - Firebase Authentication
 
@@ -178,7 +178,23 @@ https://github.com/Sanjay-Murugesan/safetrail
 
 ---
 
-# 📈 Contribution Graph
+# 🧩 LeetCode Dashboard
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/sanjay_m_official?theme=dark&font=Poppins&ext=contest"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sanjay_m_official&theme=dark"/>
+
+</p>
+
+---
+
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
@@ -188,51 +204,85 @@ https://github.com/Sanjay-Murugesan/safetrail
 
 ---
 
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/sanjay_m_official/">
+<img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Sanjay-Murugesan">
+<img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sanjay-murugesan-77b23127a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
 
 # 📚 Currently Working On
 
 - 🚀 AI Student Grade Tracker
-- ☁ Learning AWS
+- ☁ AWS Cloud
 - 🐳 Docker
-- ⚡ Spring Security
+- 🔐 Spring Security
 - 🧠 System Design
 - 💻 LeetCode DSA
+- 📦 PostgreSQL
 
 ---
 
-# 🏅 Achievements
+# 🏆 Achievements
 
-🏆 Smart India Hackathon Participant
+- 🏆 Smart India Hackathon Participant
+- 🏆 Developed Multiple Full Stack Applications
+- 🏆 REST API Development using Spring Boot
+- 🏆 Responsive Web Application Development
+- 🏆 Continuous Data Structures & Algorithms Practice
 
-🏆 Developed Multiple Full Stack Applications
+---
 
-🏆 REST API Development using Spring Boot
+# 📊 Weekly Development Breakdown
 
-🏆 Responsive Web Application Development
+<!--START_SECTION:waka-->
 
-🏆 Continuous Data Structures & Algorithms Practice
+```text
+Java             ███████████░░░░░░░░   55%
+Spring Boot      ████████░░░░░░░░░░   20%
+React            █████░░░░░░░░░░░░░   12%
+SQL              ███░░░░░░░░░░░░░░░    8%
+Others           ██░░░░░░░░░░░░░░░░    5%
+```
+
+<!--END_SECTION:waka-->
+
+> *(This section becomes automatic only if you connect WakaTime.)*
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email
+📧 **Email**
 
 **mssanjay4444@gmail.com**
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/sanjay-murugesan-77b23127a/
 
-💻 GitHub
+💻 **GitHub**
 
 https://github.com/Sanjay-Murugesan
 
-🧩 LeetCode
+🧩 **LeetCode**
 
 https://leetcode.com/u/sanjay_m_official/
 
-🌐 Portfolio
+🌐 **Portfolio**
 
 Coming Soon...
 
@@ -250,8 +300,10 @@ Coming Soon...
 
 ## 💜 Quote
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+> **"First, solve the problem. Then, write the code." — John Johnson**
 
-⭐ If you like my projects, don't forget to star them!
+⭐ **If you like my projects, don't forget to star them!**
+
+### 🚀 Thanks for visiting my profile!
 
 </div>
